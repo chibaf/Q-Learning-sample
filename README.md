@@ -1,5 +1,8 @@
 # Q-Learning-sample
 
+## environment
+64bit Raspbian is employed.
+
 ## installation of pytorch
 pip install -r https://raw.githubusercontent.com/ultralytics/yolov5/master/requirements.txt
 
