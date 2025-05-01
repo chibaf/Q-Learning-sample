@@ -8,6 +8,7 @@ pip install -r https://raw.githubusercontent.com/ultralytics/yolov5/master/requi
 
 ## sample
 python3 dispenser_DQN.py
+https://github.com/chibaf/Q-Learning-sample/blob/main/dispenser_DQN.py
 <img width="942" alt="image" src="https://github.com/user-attachments/assets/65767d14-53a0-4049-89ab-abd9ee29974d" />
 
 ## references
